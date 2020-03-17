@@ -10,7 +10,7 @@ We've got the main site, My-First-Webpage, which links to my-favorite-things, wh
 
 #### Known Bugs
 
-Works great. So well. Looks even better. Running out of time though, can add more late.
+Works great. So well. Looks even better. Running out of time though, can add more later.
 
 
 ### Next Steps
