@@ -1,0 +1,28 @@
+h1 {
+  color: #ff0000;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: left;
+}
+
+p1 {
+  font-family: sans-serif;
+}
+
+p2 {
+  color:#087005;
+  font-style: bold;
+  font-family: courier;
+}
+
+li1 {
+  color:#09bbac;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px
+}
